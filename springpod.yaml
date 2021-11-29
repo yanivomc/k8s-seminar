@@ -5,10 +5,10 @@ metadata:
 spec:
  containers: 
  - name: nginx 
-   image: nginx:latest
+   image: nginx:1.7.9 
    ports: 
    - containerPort: 80
- - name: springapp
-   image: yanivomc/spring-music:latest
+ - name: spring-music 
+   image: spring-music:e22
    ports: 
    - containerPort: 8080
