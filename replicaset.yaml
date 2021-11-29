@@ -17,6 +17,6 @@ spec:
     spec:
       containers:
         - name: myapp
-            image: yanivomc/spring-music:latest
+          image: yanivomc/spring-music:latest
 
 
