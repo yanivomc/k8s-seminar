@@ -9,6 +9,6 @@ spec:
    ports: 
    - containerPort: 80
  - name: spring-music 
-   image: spring-music:e22
+   image: spring-music:latest
    ports: 
    - containerPort: 8080
