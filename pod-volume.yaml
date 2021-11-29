@@ -23,4 +23,4 @@ spec:
       # directory location on host
       path: /tmp/files
   nodeSelector:
-    env: qa
+    env: prod
